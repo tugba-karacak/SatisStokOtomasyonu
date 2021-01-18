@@ -1,5 +1,6 @@
 # SatisStokOtomasyonu
 KULLANILAN TEKNOLOJİLER & GELİŞTİRME ORTAMI
+
 Proje geliştirilirken C#, Windows Form, MSSQL Server veri tabanı kullanılmıştır. Bu teknolojilerin etkin olarak kullanılabilmesi için, yer yer Connected Mimari, daha hızlı işlem yapabilmek içinde yer yer DisConnected Mimari kullanılmıştır.
 Proje geliştirilirken toplamda dört modül kullanılmıştır. Bu modüller müşteriler, ürünler, personeller, satışlar. Bu modüller işlevlerini layıkıyla icra ederler.
 
