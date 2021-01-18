@@ -1,11 +1,10 @@
 # SatisStokOtomasyonu
-1.KULLANILAN TEKNOLOJİLER & GELİŞTİRME ORTAMI
+KULLANILAN TEKNOLOJİLER & GELİŞTİRME ORTAMI
 Proje geliştirilirken C#, Windows Form, MSSQL Server veri tabanı kullanılmıştır. Bu teknolojilerin etkin olarak kullanılabilmesi için, yer yer Connected Mimari, daha hızlı işlem yapabilmek içinde yer yer DisConnected Mimari kullanılmıştır.
 Proje geliştirilirken toplamda dört modül kullanılmıştır. Bu modüller müşteriler, ürünler, personeller, satışlar. Bu modüller işlevlerini layıkıyla icra ederler.
 
 Proje front tarafında iki arayüz vardır, bunlardan biri müşterilerin giriş yapıp, ürün satın alabildikleri diğeri ise personellerin giriş yapıp ürün kaydedebildikleri ve satışların istatistiksel takipleri gibi işlemleri yapabilecekleri arayüzlerden oluşur.
-
-2.GİRİŞ SİSTEMİ
+GİRİŞ SİSTEMİ
 Projede iki adet giriş bulunmaktadır. Bunlardan bir tanesi personel giriş diğeri ise kullanıcı giriştir. 
 
 Seçilen giriş türüne göre ilgili ekran kullanıcıya gösterilir. Burada amaç kullanıcılar ile personelleri birbirinden ayırmaktır. Tabi bu işlem yetki üstünden de gayet yapılabilirdi. Fakat burada eğer yetki üstünden bu işlem yapılırsa bazı problemlerle hem programatik olarak hem de güvenlik açısından bir takım zafiyetler doğurabilirdi. Örnek vermek gerekirse mesela database’in injection yemesi gibi durumlarda herhangi bir kullanıcının verileri çalındığında ilgili yetki kolonundan diğer yetkiyi bulmak o kadar da zor olmaz. Çünkü yetkiler genellikle 701 702 gibi tanımlanır. Programatik olarak doğurabileceği problemlere örnek vermek gerekirse inner join sorgularını yazarken bir takım sorunlar yaşabilirdik. Her defasında mesela yetki alanını belirtmek gibi.
