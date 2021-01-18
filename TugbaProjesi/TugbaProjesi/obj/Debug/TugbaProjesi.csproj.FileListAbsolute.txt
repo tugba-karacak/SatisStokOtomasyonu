@@ -1,0 +1,10 @@
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\bin\Debug\TugbaProjesi.exe.config
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\bin\Debug\TugbaProjesi.exe
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\bin\Debug\TugbaProjesi.pdb
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.csprojAssemblyReference.cache
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.Properties.Resources.resources
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.csproj.GenerateResource.cache
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.exe
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.pdb
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.Giris.resources
+C:\Users\ersin\source\repos\TugbaProjesi\TugbaProjesi\obj\Debug\TugbaProjesi.SifreDegis.resources
